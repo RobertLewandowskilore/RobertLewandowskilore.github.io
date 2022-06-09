@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<title>Polska | Najpiękniejszy kraj</title>
+<!-- Meta -->
+<meta charset="UTF-8">
+<meta name="author" content="ImieNazwisko autora">
+<meta name="description" content="Polska, najpiękniejszy kraj Europy.">
+<meta name="keywords" content="polska kuchnia smaki europa kraj panstwo">
+<!-- zewnetrzne linki -->
+<link href='http://fonts.googleapis.com/css?family=Forum&subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/style.css" />
+
+</head>
+<body>
+<!-- wrapper_rama -->
+<div class="wrapper">
+<header>
+<h1>Polska<span class="red">.</span>pl</h1>
+<h3> Wycieczki nad morze, w góry, nad jeziora.</h2><hr>
+
+<nav id="mainmenu">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="galeria.html">Galeria</a></li>
+<li><a href="index.html">Atrakcje</a></li>
+<li><a href="index.html">Kontakt</a></li>
+</ul><hr>
+</header>
+<!-- koniec_header -->
+
+<section id="content">
+<h2>Informacje o Polsce!</h2>
+<img src="img/wawel2.jpg" alt="wawel" />
+<p>Polska jest jednym z największych państw Europy Wschodniej, porównywalnym pod względem obszaru z Włochami lub Niemcami. Jej liczbę mieszkańców szacuje się na około 39 milionów. W maju 2004 roku Polska weszła do Unii Europejskiej.
+Polska jest państwem o ugruntowanym systemie rządów demokratycznych, z bogatą historią, ogromnym dziedzictwem kulturowym oraz pięknymi krajobrazami, fauną i florą. 
+Wiele polskich atrakcji turystycznych znalazło uznanie na świecie. Podczas podróży po Polsce nie można pominąć Krakowa, Warszawy, Gdańska, Częstochowy, Auschwitz, czy też Tatr. <strong>Polska jest w Europie krajem średniej wielkości.</strong> Z powierzchnią 312,683 tys. km2 zajmuje dziewiąte miejsce wśród państw Europy. Ma kształt zbliżony do koła, którego środek znajduje się w miejscowości Piątek koło Łodzi. Powierzchnia Polski stanowi około 3 proc. powierzchni Europy. Polska leży w strefie czasu środkowoeuropejskiego. W lecie wprowadzany jest w Polsce czas letni (o godzinę wcześniejszy), odpowiadający strefie czasu wschodnioeuropejskiego.</p>
+
+<h2>Polska w liczbach</h2>
+<table class="table">
+<tr>
+<td>Powierzchnia</td>
+<td>312 685 km<sup>2</sup></td>
+</tr>
+
+<tr>
+<td>Populacja</td>
+<td>38,7 mln</td>
+</tr>
+
+<tr>
+<td>Zaludnienie</td>
+<td>124 km<sup>2<sup></td>
+</tr>
+
+<tr>
+<td>Stolica</td>
+<td>Warszawa</td>
+</tr>
+
+<tr>
+<td>Podział administracyjny</td>
+<td>16 województw</td>
+</tr>
+
+<tr>
+<td>Prezydent</td>
+<td>Bronisław Komorowski</td>
+</tr>
+
+<tr>
+<td>Premier</td>
+<td>Donald Tusk</td>
+</tr>
+
+<tr>
+<td>PKB</td>
+<td>16 310 $</td>
+</tr>
+</table>
+
+</section>
+<!-- koniec_content -->
+
+<div class="clear"></div>
+
+<footer id="footer">
+<hr>
+<p>Copyright © Polska.pl 2012-2013</p>
+
+</footer>
+<!-- koniec_stopki -->
+</div>
+<!-- koniec_wrapper -->
+
+</body>
+</html>
