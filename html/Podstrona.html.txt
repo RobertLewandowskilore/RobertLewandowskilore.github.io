@@ -1,0 +1,6 @@
+<html>
+<body>
+to jest podrstrona
+<a href="index.html"> Powrót do strony głównej
+</body>
+</html>
